@@ -1,0 +1,8 @@
+.paralist {
+	margin-left: 40px;
+}
+.paranum {
+    color: #CCCCCC;
+    float: left;
+    margin-left: -40px;
+}
